@@ -1,6 +1,6 @@
 # Greetings. 
 
-Welcome to SoulShadow! This is my github, thanks for checking it out! 
+[![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=10000&pause=1000&color=2977F5&width=435&lines=Welcome+to+SoulShadow!+This+is+my+github%2C+thanks+for+checking+it+out!)](https://git.io/typing-svg)
 
 ---
 
