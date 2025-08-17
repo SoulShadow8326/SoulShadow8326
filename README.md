@@ -4,9 +4,9 @@
 
 ---
 
-### About Me
+### [![](https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=25&duration=2000&pause=1000&color=2977F5&multiline=true&repeat=false&width=435&lines=About+Me)](https://git.io/typing-svg)
 
-* **Languages:** Golang, Python, JavaScript, HTML, CSS, and a foundational understanding of Assembly (ASM).
+[![](https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=25&pause=1000&color=FFFFFF&multiline=true&repeat=false&width=435&lines=I+like+Golang.)](https://git.io/typing-svg)
 
 ---
 # ⚀ GitHub Stats:
