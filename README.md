@@ -9,6 +9,13 @@ Welcome to SoulShadow! This is my github, thanks for checking it out!
 * **Languages:** Golang, Python, JavaScript, HTML, CSS, and a foundational understanding of Assembly (ASM).
 
 ---
+# ⚀ GitHub Stats:
+[![](https://github-readme-streak-stats.herokuapp.com?user=SoulShadow8326&theme=monokai&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
+## ⚁ GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=SoulShadow8326&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
 
 ### Skillset
 
