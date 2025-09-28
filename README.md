@@ -31,7 +31,7 @@
 
 ### Currently Focusing On
 
-* SOM by Hack Club has my main attention and all my current project will have some relevance there.
+* nuxE
 
 ---
 
